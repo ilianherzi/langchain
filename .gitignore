@@ -1,0 +1,5 @@
+.env
+*.png
+*.pdf
+*.jpg
+**/*.history/
