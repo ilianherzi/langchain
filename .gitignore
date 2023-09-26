@@ -2,4 +2,9 @@
 *.png
 *.pdf
 *.jpg
+*.jpeg
 **/*.history/
+.DS_STORE
+**/__pycache__/*
+**/.ipynb_checkpoints
+*.key
